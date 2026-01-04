@@ -1,0 +1,5 @@
+{
+  "name": "Check Point CCSA R81/R80 Quiz Pro",
+  "description": "A comprehensive Moodle-style quiz application based on official Check Point certification preparation materials, featuring progress tracking, detailed explanations, and exam simulation modes.",
+  "requestFramePermissions": []
+}
